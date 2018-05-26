@@ -1,6 +1,8 @@
 # y-cnki-downloader
 :smile: y-cnki-downloader
 
+## 有些只有CAJ格式的论文，把下载下来的PDF文件后缀改成CAJ格式即可
+
 = 再也不需要四处去找别人帮忙下文献了！    <br>
 = 离开校园/工作区也可以免费下载知网文献   <br>
 = 只需复制你需要下载的文献地址(cnki地址)  <br>
