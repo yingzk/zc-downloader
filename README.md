@@ -1,5 +1,5 @@
 # 知C下载器(zc-downloader)
-:smile: zc-downloade
+:smile: zc-downloader
 
 = 再也不需要四处去找别人帮忙下文献了！    <br>
 = 离开校园/工作区也可以免费下载知网文献   <br>
