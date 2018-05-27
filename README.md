@@ -1,7 +1,5 @@
-# y-cnki-downloader
-:smile: y-cnki-downloader
-
-## 有些只有CAJ格式的论文，把下载下来的PDF文件后缀改成CAJ格式即可
+# 知C下载器(zc-downloader)
+:smile: zc-downloade
 
 = 再也不需要四处去找别人帮忙下文献了！    <br>
 = 离开校园/工作区也可以免费下载知网文献   <br>
@@ -13,8 +11,14 @@
 = 若存在BUG或什么不满意的地方请联系我<br>
 = 程序BUG/交流QQ群: 576766797<br>
 
-= 作者: Ying Joy<br>
-= 博客: [https://www.yingjoy.cn/](https://www.yingjoy.cn/)<br>
+v1.2更新如下内容：
+0. 重命名为“知C下载器”
+1. 修复下载CAJ文献
+2. 精简下载文件名
+
+作者: Ying Joy<br>
+博客: [https://www.yingjoy.cn/](https://www.yingjoy.cn/)<br>
+Github: [https://github.com/yingzk/zc-downloader](https://github.com/yingzk/zc-downloader)
 
 #### 使用教程
 ![](https://www.yingjoy.cn/wp-content/uploads/2018/05/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.gif)
