@@ -12,9 +12,9 @@
 = 程序BUG/交流QQ群: 576766797<br>
 
 # v1.2更新如下内容：
-- 0. 重命名为“知C下载器”
-- 1. 修复下载CAJ文献
-- 2. 精简下载文件名
+- 重命名为“知C下载器”
+- 修复下载CAJ文献
+- 精简下载文件名
 
 作者: Ying Joy<br>
 博客: [https://www.yingjoy.cn/](https://www.yingjoy.cn/)<br>
