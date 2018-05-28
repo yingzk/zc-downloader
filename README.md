@@ -27,4 +27,4 @@
 Github: [https://github.com/yingzk/zc-downloader](https://github.com/yingzk/zc-downloader)
 
 #### 使用教程
-![](https://www.yingjoy.cn/wp-content/uploads/2018/05/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.gif)
+![](https://github.com/yingzk/zc-downloader/blob/master/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.gif?raw=true)
