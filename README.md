@@ -1,10 +1,16 @@
-# 知C下载器(zc-downloader)
-:smile: zc-downloader
+# 知C下载器
 
 **感谢：北京大学、清华大学、浙江大学、复旦大学等师生学者***共同筹建的第三方交流学术成果的公益互联网项目，旨在促进知识的传播和最新学术科技的共享，所有信息均来自公开、透明的互联网查询网站和学者上传*
 
 ## 觉得不错的话，点个Star再走嘛:smile:
 ## 永久更新地址：https://www.yingjoy.cn/608.html
+
+# v2.0更新如下：
+- 改用文章标题搜索
+- 修复原来下载不符合问题。
+- and 很多bug
+#### 使用教程
+![](https://github.com/yingzk/zc-downloader/blob/master/使用教程v2.0.gif?raw=true)
 
 # v1.2更新如下内容：
 - 重命名为“知C下载器”
